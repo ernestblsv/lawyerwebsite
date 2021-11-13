@@ -1,2 +1,2 @@
-# lawyerwebsite
-The first work creating a web solution for a single international lawyer.
+# Lawyer's Website
+This is my very first commercial project. Create a website for international lawyer.
